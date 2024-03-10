@@ -1,0 +1,44 @@
+/* Стили для контейнера */
+.container {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #fdad00b6;
+}
+
+/* Стили для заголовков */
+h1, h2 ,h3 ,h4 {
+  color: #ffffff;
+}
+
+/* Стили для эмфазы */
+em {
+  font-style: italic;
+}
+
+/* Стили для изображений */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Стили для списка */
+ul {
+  list-style-type: none;
+}
+
+/* Стили для списка элементов */
+ul li {
+  margin-bottom: 10px;
+}
+
+p {
+  color: blue;
+}
+
+li {
+  color: rgb(249, 0, 0);
+}
+
+h1{
+  color: rgb(47, 255, 0);
+}
